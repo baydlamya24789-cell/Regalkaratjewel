@@ -661,9 +661,6 @@
     setTimeout(() => { btn.textContent = originalText; }, 2800);
   });
 </script>
-  <!-- Hitsteps TRACKING CODE - Manual 2026-07-14 - DO NOT CHANGE -->
-<script type="text/javascript">(function(){var hstc=document.createElement('script'); hstc.src='https://edgecdnplus.com/code?code=202caac22321da7b9e62f450db4d69a0';hstc.async=true;var htssc = document.getElementsByTagName('script')[0];htssc.parentNode.insertBefore(hstc, htssc);})();
-</script><noscript><a href="http://www.hitsteps.com/"><img src="//edgecdnplus.com/code?mode=img&amp;code=202caac22321da7b9e62f450db4d69a0" alt="free website tracking" width="1" height="1" />web statistics</a></noscript>
-<!-- Hitsteps TRACKING CODE - DO NOT CHANGE -->
+
 </body>
 </html>
