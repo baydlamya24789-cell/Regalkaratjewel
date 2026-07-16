@@ -1,7 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<script async defer src="https://tools.luckyorange.com/core/lo.js?site-id=8fa5ff2e"></script>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>RegalKaratJewel | Designed with artistry, treasured for a lifetime.</title>
